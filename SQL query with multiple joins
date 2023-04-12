@@ -1,4 +1,4 @@
-SQL query with multiple joins used to find the 10 most profitable genres
+SQL query with multiple joins used to find the 10 most profitable genres:
 
 SELECT F.name AS genre,
        SUM(A.amount) AS total_revenue
