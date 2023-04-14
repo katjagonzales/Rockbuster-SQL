@@ -17,7 +17,9 @@ This repository contains:
 
 **- SQL CTE query**: A SQL query utilizing a Common Table Expression was used to extract information from the Rockbuster database
 
-**-SQL Subquery**: A SQL subquery was used to extract information from the Rockbuster database
+**- SQL Subquery**: A SQL subquery was used to extract information from the Rockbuster database
+
+**- SQL query summary statistics**: A SQL query was used to calculate descriptive statitics
 
 **- SQL query with mutliple joins**: A SQL query was used to extract information from the Rockbuster database by joining tables
 ## Data
