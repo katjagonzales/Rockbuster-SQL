@@ -19,7 +19,7 @@ This repository contains:
 
 **- SQL Subquery**: A SQL subquery was used to extract information from the Rockbuster database
 
-**- SQL query summary statistics**: A SQL query was used to calculate descriptive statitics
+**- SQL query summary statistics**: A SQL query was used to calculate descriptive statistics
 
 **- SQL query with mutliple joins**: A SQL query was used to extract information from the Rockbuster database by joining tables
 ## Data
